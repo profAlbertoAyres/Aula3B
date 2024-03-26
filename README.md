@@ -7,6 +7,7 @@
 * Alberto
 * André
 * Maycon
+* Júlia
 
 ```
 npm install bootstrap
